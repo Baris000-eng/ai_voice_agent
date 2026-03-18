@@ -1,1 +1,1 @@
-AI is used in the typescript function definitions, interface definitions, and an overview of how to setup the modular structure and development environment of the project, with %40 usage overall.
+AI is used in the typescript function definitions, interface definitions, and an overview of how to setup the modular structure and development environment of the project, also in the CSS part of the html css sticky side tab case, with %40 usage overall.
